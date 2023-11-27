@@ -21,7 +21,7 @@ const Footer = () => {
                         color:"#fff",marginRight:"2rem"
                     }} />
                     
-                   9789610000</h4>
+                   9789613985</h4>
                    
                     </div>
                     <div className='email'>
@@ -29,7 +29,7 @@ const Footer = () => {
                         <FaMailBulk  size={20} style={{
                         color:"#fff",marginRight:"2rem"
                     }} />
-                    madhan@gmail.com</h4>
+                    madhankumar6@gmail.com</h4>
                     
                     </div>
                     </div>
